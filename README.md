@@ -21,3 +21,14 @@ The goal of this project is to analyze pizza sales data to extract meaningful bu
 - **SQL** (MySQL) – for data cleaning, transformation, and querying  
 - **DAX** – for calculated columns, measures, and KPI logic  
 - **Git & GitHub** – version control and project sharing  
+
+
+## 📸 Dashboard Snapshots
+
+### 🔹 Home
+
+![Overview Dashboard](1.png)
+
+### 🔹 Best/Worst Seller
+
+![Top Pizzas](2.png)
